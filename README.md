@@ -6,7 +6,7 @@ In this project you are given a web-based application that reads RSS feeds. The 
 
 ## How to Run the Tests
 
-1- Download the zipped file and unzip it
+1- Download the zipped files from [https://github.com/A9eel7neef/Feed-Reader-Test] and unzip it
 
 2- Open the index.html page
 
