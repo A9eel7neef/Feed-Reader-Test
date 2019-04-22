@@ -12,16 +12,16 @@ In this project you are given a web-based application that reads RSS feeds. The 
 
 3- the following 7 tests will load automatically:
 	
-	-RSS Feeds Test:
-		-RSS Feeds are defined
-		-RSS Feeds are with URLs
-		-RSS Feeds are with Names
-	-The menu Test:
-		-menu is hidden by default
-		-menu does hide or show when clicked
-	-Initial Entries Test:
-		-Initial Entries contain at least one element
-	-New Feed Selection Test:
-		-New feed selection loads different content
+	- RSS Feeds Test:
+		- RSS Feeds are defined
+		- RSS Feeds are with URLs
+		- RSS Feeds are with Names
+	- The menu Test:
+		- menu is hidden by default
+		- menu does hide or show when clicked
+	- Initial Entries Test:
+		- Initial Entries contain at least one element
+	- New Feed Selection Test:
+		- New feed selection loads different content
 
 
